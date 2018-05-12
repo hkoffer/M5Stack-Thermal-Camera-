@@ -5,7 +5,7 @@ M5Stack Thermal Camera with AMG8833 thermal sensor. The connection between M5Sta
 
 https://twitter.com/Offer68328171/status/990110652671799297
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CWGr7EDIt4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://raw.githubusercontent.com/hkoffer/M5Stack-Thermal-Camera-/master/IR001.jpg" >
 
