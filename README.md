@@ -5,6 +5,8 @@ M5Stack Thermal Camera with AMG8833 thermal sensor. The connection between M5Sta
 
 https://twitter.com/Offer68328171/status/990110652671799297
 
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://raw.githubusercontent.com/hkoffer/M5Stack-Thermal-Camera-/master/IR001.jpg" >
+
 M5Stack Thermal Camera code is modify from library for the Adafruit AMG88xx  https://github.com/adafruit/Adafruit_AMG88xx
 
 This is a library for the Adafruit AMG88xx based thermal cameras:
